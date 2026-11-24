@@ -52,7 +52,7 @@ const rizky = {
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=RizkyPutraIchfiandra&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&rank_icon=github" alt="stats" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=RizkyPutraIchfiandra&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&rank_icon=github" alt="stats" />
   <img height="165" src="https://streak-stats.demolab.com?user=RizkyPutraIchfiandra&theme=tokyonight&hide_border=true" alt="streak" />
 </div>
 
